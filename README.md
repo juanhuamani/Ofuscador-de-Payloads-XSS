@@ -1,6 +1,6 @@
 # Implementación: Leveraging LLM to Strengthen ML-Based Cross-Site Scripting Detection
 
-![XSS Detection with LLM](https://raw.githubusercontent.com/juanhuamani/Ofuscador-de-Payloads-XSS/main/docs/xss-detection.png)
+![XSS Detection with LLM](screenshot.png)
 
 ## 📚 Contexto Académico
 
