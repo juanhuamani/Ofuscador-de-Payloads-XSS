@@ -12,10 +12,6 @@ env/
 venv/
 .env
 
-# Archivos de datos grandes
-*.csv
-*.xlsx
-*.xls
 
 # Archivos del sistema
 .DS_Store
