@@ -1,6 +1,6 @@
 # Implementación: Leveraging LLM to Strengthen ML-Based Cross-Site Scripting Detection
 
-![XSS Detection with LLM](screenshot.png)
+![XSS Detection with LLM](ScreenShot.png)
 
 ## 📚 Contexto Académico
 
